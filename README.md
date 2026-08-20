@@ -582,6 +582,7 @@ Not really efficient, you can find more links on the sys admin awesome list ; [o
 * [Wowa](https://www.wowa.me/)
 * [CCMixter](https://ccmixter.org/) - Creative Commons community library for music + sound
 * [Openverse](https://openverse.org/) - Creative Commons library by the wordpress.org team
+* [musopen.org](https://musopen.org/) - Classic - Open Domain
 
 ## Contributors ✨
 
